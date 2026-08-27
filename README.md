@@ -1,20 +1,6 @@
 
-BMW Author — Guide & Controls
+A low resource webpage that will save your scripts and give you the option to print or make a pdf. It will save projects as PDF.
 
-Toolbar Buttons
-Start Blank: Resets the canvas and characters to a clean new script.
-Load: Imports a previously saved script JSON file into the editor.
-Create Menu: Quick dropdown to insert Acts, Scenes, Action, Characters, Dialogue, Parentheticals, or Writer Notes.
-Cover Sheet: Configure or toggle the title page (Title, Author, Date, Contact Email).
-Add Character: Add characters to your database with roles, bios, and tag colors.
-Print / PDF: Prints or saves to PDF, automatically including the cover page as Page 1 when enabled.
-Export (Download Icon): Downloads the full script state to JSON for backup.
-Smart Keyboard Shortcuts
-Enter Key
-Creates the next appropriate screenplay block automatically (e.g. Character → Dialogue).
-Tab Key
-Cycles the active block type (Action → Character → Parenthetical → Dialogue).
-Backspace
-Deletes an empty block and focuses the previous element.
-Side Panels
-Use the Left Outline Sidebar to instantly jump between Acts and numbered Scenes. Use the Right Character Panel to insert character dialogue blocks with a single click (`+ Insert`).
+All you need to is download the Author.html file, and then click on it or open in your web browser. 
+
+https://www.youtube.com/watch?v=r3ktVs1pSJU&t=4s - Video Tutorial
